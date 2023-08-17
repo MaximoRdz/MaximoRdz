@@ -1,5 +1,5 @@
 ### Hi there 👋
 ```python
-Hello world!
+print("Hello world!")
 ```
 

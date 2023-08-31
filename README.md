@@ -9,11 +9,11 @@ print(about_me)
 Checkout some of my projects 
 
 #### Physics + Programming
-* TFG
+* [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): `astropy`, `numpy`, `scipy`, `matplotlib`, `seaborn`.
 * Ising Model
 
 #### Automatization
-* Expenses App: Graphic user interface designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 
+* [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 
 Automatization of a `sqlite3` database.
 #### Data Science
 

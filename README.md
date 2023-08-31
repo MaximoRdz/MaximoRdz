@@ -6,7 +6,17 @@ about_me = """Graduate in Physics specialized in the computational approach
 print(about_me)
 ```
 ### Projects
-TODO
+Checkout some of my projects 
+
+#### Physics + Programming
+* TFG
+* Ising Model
+
+#### Automatization
+* Expenses App: Graphic user interface designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 
+Automatization of a `sqlite3` database.
+#### Data Science
+
 ### Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)

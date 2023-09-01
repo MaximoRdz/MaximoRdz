@@ -5,7 +5,7 @@ about_me = """Graduate in Physics specialized in the computational approach
 
 print(about_me)
 ```
-### Projects
+## Projects
 Checkout some of my projects 
 
 #### Physics + Programming
@@ -18,7 +18,7 @@ through individuals of a population (groups formation, critical influentiability
 Automatization of a `sqlite3` database.
 #### Data Science
 
-### Tech Stack
+## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)

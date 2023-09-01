@@ -5,7 +5,7 @@ about_me = """Graduate in Physics specialized in the computational approach
 
 print(about_me)
 ```
-### Projects
+## Projects
 Checkout some of my projects 
 
 #### Physics + Programming

@@ -10,7 +10,7 @@ Checkout some of my projects
 
 #### Physics + Programming
 * [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): `astropy`, `numpy`, `scipy`, `matplotlib`, `seaborn`.
-* [Ising Model](https://github.com/MaximoRdz/MODELO-ISING): Statistical physics applied to describe the opinion's spreading 
+* [ISING-MODEL](https://github.com/MaximoRdz/MODELO-ISING): Statistical physics applied to describe the opinion's spreading 
 through individuals of a population (groups formation, critical influentiability, ...). 
 
 #### Automatization

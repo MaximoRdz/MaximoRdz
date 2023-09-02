@@ -1,7 +1,7 @@
 ## About me :atom:
 ```python
 about_me = """Graduate in Physics specialized in the computational approach
-              of everyday problems."""
+              to everyday problems."""
 
 print(about_me)
 ```

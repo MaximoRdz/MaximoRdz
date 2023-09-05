@@ -15,7 +15,7 @@ through individuals of a population (groups formation, critical influentiability
 
 #### Automatization
 * [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 
-Automatization of a `sqlite3` database.
+Automatization of a `sqlite3` database (CRUDE).
 #### Data Science
 
 ## Tech Stack

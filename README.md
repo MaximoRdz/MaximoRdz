@@ -8,16 +8,21 @@ print(about_me)
 ## Projects
 Here I present some porjects that showcase my abilities and interests. 
 
-#### Physics + Programming
 ---
+#### Physics + Programming
 * [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): `astropy`, `numpy`, `scipy`, `matplotlib`, `seaborn`.
 * [ISING-MODEL](https://github.com/MaximoRdz/MODELO-ISING): Statistical physics applied to describe the opinion's spreading 
 through individuals of a population (groups formation, critical influentiability, ...). 
 ---
+
 #### Automatization
 * [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 
 Automatization of a `sqlite3` database (CRUDE).
+---
+
 #### Data Science
+
+---
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)

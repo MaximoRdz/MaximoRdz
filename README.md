@@ -10,8 +10,6 @@ Here I present some projects that showcase my abilities and interests.
 
 #### Physics + Programming
 * [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): Morphology and population age analysis of two merging galaxies. Data cleaning and analysis pipeline (`astropy`, `numpy`, `scipy`, `matplotlib`, `seaborn`).
-* [ISING-MODEL](https://github.com/MaximoRdz/MODELO-ISING): Statistical physics applied to describe the opinion's spreading 
-through individuals of a population (groups formation, critical influentiability, ...). 
 
 #### Automatization
 * [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 

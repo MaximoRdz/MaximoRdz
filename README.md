@@ -46,6 +46,9 @@ Automatization of a `sqlite3` database (CRUDE).
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/Dev%20C++-007CFF?style=for-the-badge&logo=dev-cplusplus&logoColor=white)
 
+<div style="text-align: center;">
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaximoRdz&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 
 

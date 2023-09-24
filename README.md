@@ -27,18 +27,16 @@ Automatization of a `sqlite3` database (CRUDE).
 [![SciPy](https://img.shields.io/badge/SciPy-3776AB?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-
 [![MATLAB](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 
 [![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 [![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -46,9 +44,10 @@ Automatization of a `sqlite3` database (CRUDE).
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/Dev%20C++-007CFF?style=for-the-badge&logo=dev-cplusplus&logoColor=white)
 
-<div style="text-align: center;">
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaximoRdz&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaximoRdz&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+</p>
+
 
 
 

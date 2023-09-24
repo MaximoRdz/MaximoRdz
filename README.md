@@ -9,11 +9,12 @@ print(about_me)
 Here I present some projects that showcase my abilities and interests. 
 
 #### Physics + Programming
-* [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): Morphology and population age analysis of two merging galaxies. Data cleaning and analysis pipeline (`astropy`, `numpy`, `scipy`, `matplotlib`, `seaborn`).
+* [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): Morphology and population age analysis of two merging galaxies. Data cleaning and analysis pipeline. `astropy | numpy | scipy | matplotlib | seaborn`
 
 #### Automatization
 * [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) the user expenses. 
 Automatization of a `sqlite3` database (CRUDE).
+* [AUTOMATIC-WORKPLACE-GENERATOR](https://github.com/MaximoRdz/AUTO-PROJECT-STRUCTURE): Automate the setup of a workspace for Developers (**DEV**) or Data Science (**DS**) projects using Python, ensuring a standardized structure across projects to maintain high-quality outcomes. `argparse | json | os`
 
 #### Data Science
 

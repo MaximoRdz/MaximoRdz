@@ -8,7 +8,7 @@ print(about_me)
 ## Projects
 Here I present some projects that showcase my abilities and interests. 
 
-#### Physics + Programming
+#### Physics + Data Science
 * [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): Morphology and population age analysis of two merging galaxies. Data cleaning and analysis pipeline. `astropy | numpy | scipy | matplotlib | seaborn`
 
 #### Automatization

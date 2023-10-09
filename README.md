@@ -18,6 +18,7 @@ Automatization of a `sqlite3` database (CRUDE).
 
 #### Data Science
 
+
 ## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)

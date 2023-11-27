@@ -13,7 +13,7 @@ Here I present some projects that showcase my abilities and interests.
 
 #### Automatization
 * [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) user expenses. 
-Automatization of a `sqlite3` database (CRUDE).
+Automatization of a `sqlite3` database (CRUD).
 * [AUTOMATIC-WORKPLACE-GENERATOR](https://github.com/MaximoRdz/AUTO-PROJECT-STRUCTURE): Automate the creation of workspaces for Developers (**DEV**) or Data Science (**DS**) projects using Python, ensuring a standardized structure across projects to maintain high-quality outcomes. `argparse | json | os`
 
 #### Data Science

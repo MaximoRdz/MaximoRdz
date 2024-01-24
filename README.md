@@ -19,7 +19,6 @@ Automatization of a `sqlite3` database (CRUD).
 #### Fun with coding
 * [Advent of Code](https://github.com/MaximoRdz/AdventOfCode): December daily programming puzzles [[Official Site](https://adventofcode.com/)]
 
-
 ## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)

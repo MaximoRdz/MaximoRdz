@@ -1,6 +1,6 @@
 ## About me :atom:
 ```python
-about_me = """Graduate in Physics specialized in the computational approach
+about_me = """Bsc in Physics and Msc in Computer Science student specialized in the computational approach
               to everyday problems."""
 
 print(about_me)

@@ -17,7 +17,7 @@ Automatization of a `sqlite3` database (CRUD).
 * [AUTOMATIC-WORKPLACE-GENERATOR](https://github.com/MaximoRdz/AUTO-PROJECT-STRUCTURE): Automate the creation of workspaces for Developers (**DEV**) or Data Science (**DS**) projects using Python, ensuring a standardized structure across projects to maintain high-quality outcomes. `argparse | json | os`
 
 #### Fun with coding
-* [Advent of Code](https://github.com/MaximoRdz/AdventOfCode): December daily programming puzzles [[Official Site](https://adventofcode.com/)]
+* [Advent of Code](https://github.com/MaximoRdz/AdventOfCode): December daily programming puzzles [[Official Site](https://adventofcode.com/)].
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)

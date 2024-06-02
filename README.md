@@ -10,6 +10,7 @@ Here I present some projects that showcase my abilities and interests.
 
 #### Physics + Data Science
 * [GALAXY-MERGERS-THESIS](https://github.com/MaximoRdz/GALAXY-MERGERS-TFG): Morphology and population age analysis of two merging galaxies. Data cleaning and analysis pipeline. `astropy | numpy | scipy | matplotlib | seaborn`
+* [ARTIFICIAL-INTELLIGENCE](https://github.com/MaximoRdz/ARTIFICIAL-INTELLIGENCE): MIT 6.034 | Artificial Intelligence.
 
 #### Automatization
 * [PYTHON-DATABASE-GUI](https://github.com/MaximoRdz/PYTHON-DATABASE-GUI): APP designed with `Tkinter` to manage (add, update, delete, ...) user expenses. 
@@ -19,7 +20,6 @@ Automatization of a `sqlite3` database (CRUD).
 #### Fun with coding
 * [Advent of Code](https://github.com/MaximoRdz/AdventOfCode): December daily programming puzzles [[Official Site](https://adventofcode.com/)].
 * [Data Structures & Algorithms](https://github.com/MaximoRdz/DATA-STRUCTURES-ALGORITHMS): Notes on programming fundamentals.
-* 
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)](https://www.python.org/)
